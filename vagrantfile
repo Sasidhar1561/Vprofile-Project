@@ -23,3 +23,7 @@ Vagrant.configure("2") do |config|
   end
 
 end
+
+
+
+“This is a GitHub Organization job in Jenkins, where each repository is treated as a multibranch pipeline. Jenkins scans the GitHub org, auto-discovers repos and branches with Jenkinsfiles, and creates branch-specific pipelines like dev, prod, and hotfix automatically.”
